@@ -1,0 +1,56 @@
+html, body{
+  height: 100%;
+  width: 100%;
+}
+
+
+.nav{
+  text-align: center;
+  background-color: #7c3aed;
+  padding: 1vw 1vh;
+  margin: auto;
+  border: none;
+  border-radius: 5px;
+}
+
+.nav h1{
+  color:#fff;
+}
+
+#btn-translate{
+ 
+  align-items: center;
+  justify-content: center;
+  font-size: 1vw;
+    padding: 0.7vw 1.4vw;
+    background-color: #7c3aed;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-weight: 700;
+}
+
+textarea {
+  border: 1px solid black;
+  width: 80%;
+  height: 10vh;
+  display: block;
+  margin: 1rem;
+  padding: 1rem;
+}
+
+
+#output {
+  border: 1px solid black;
+  height: 10vh;
+  width: 80%;
+  margin: 1rem;
+  padding: 1rem;
+}
+#out{
+  font-size: 1vw;
+  padding: 1rem 1rem;
+ font-weight: 700;
+  color: solid #000;
+  
+}
